@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbaaad67-7735-47da-8e1e-b64b13b98eb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OS_3_Threads" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sZQQIvRYP9hWMd8GRa9cLlXatG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yarde\OneDrive\Desktop\workspace\OS_3_Threads\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DiskSearcher" />
+      <module name="OS_3_Threads" />
+      <option name="PROGRAM_PARAMETERS" value="true html C:\\Users\\Yarde\\OneDrive\\Desktop\\Ex3_tests C:\Users\Yarde\OneDrive\Desktop\Ex3_tests_dest 5 5" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbaaad67-7735-47da-8e1e-b64b13b98eb0" name="Default Changelist" comment="" />
+      <created>1621077614045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621077614045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="123" width="787" height="531" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621966999242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="407" y="123" width="787" height="531" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621966999242" />
+    <state x="1938" y="176" width="1092" height="643" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621965428985" />
+    <state x="31" y="6" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1621159838496" />
+    <state x="357" y="56" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1621150656844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="56" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1621150656844" />
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1621879922991">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621879922991" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621965467140" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1323" height="367" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621956467623" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621965467140" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1323" height="367" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621956467621" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621965467140" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1323" height="367" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621956467619" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="381" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1621965467140" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1323" height="367" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621956467622" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1622299610421">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1622299610421" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1621149005933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621149005933" />
+    <state x="2022" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1623599820049">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2022" y="344" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1623599820049" />
+    <state x="1708" y="140" key="new project wizard" timestamp="1621880142879">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1708" y="140" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1621880142879" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1621157149603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1621157149603" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621149001407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1621149001407" />
+  </component>
+</project>
